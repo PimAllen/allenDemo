@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "190-1904889_drawing-bedrooms-kawaii-cute-dragon-drawing-easy-hd.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
